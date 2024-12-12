@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   login.facebook.com/login.php
+   <url>      <param>jazoest=2946</param>
+      <param>lsd=AVrdjC3Gzl8</param>
+      <param>display=</param>
+      <param>isprivate=</param>
+      <param>return_session=</param>
+      <param>skip_api_login=</param>
+      <param>signed_next=</param>
+      <param>trynum=1</param>
+      <param>timezone=</param>
+      <param>lgndim=</param>
+      <param>lgnrnd=051010_CUnz</param>
+      <param>lgnjs=n</param>
+      <param>email=teste@dio.me</param>
+      <param>pass=teste@dio.me</param>
+      <param>login=1</param>
+      <param>prefill_contact_point=</param>
+      <param>prefill_source=</param>
+      <param>prefill_type=</param>
+      <param>first_prefill_source=</param>
+      <param>first_prefill_type=</param>
+      <param>had_cp_prefilled=false</param>
+      <param>had_password_prefilled=false</param>
+      <param>ab_test_data=</param>
+   </url>
+</harvester>
